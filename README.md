@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmedkhalaf818
-- 👀 I’m interested in Electronics and communications fields and embedded systems
+- 👀 I’m interested in Electronics and communications fields and DIgital Design 
 - 🌱 I’m currently learning Electronics and communications fields
-- 💞️ I’m looking to collaborate on embedded systems projects
+- 💞️ I’m looking to collaborate on DIgital Design projects
 - 📫 How to reach me ... Email me ahmeduahmed362@gmail.com
 
 <!---
