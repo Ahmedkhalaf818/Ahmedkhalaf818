@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ahmedkhalaf818
-- 👀 I’m interested in Electronics and communications fields and DIgital Design 
+- 👀 I’m interested in  Digital  Electronics Design and communications fields 
 - 🌱 I’m currently learning Electronics and communications fields
-- 💞️ I’m looking to collaborate on DIgital Design projects
-- 📫 How to reach me ... Email me ahmeduahmed362@gmail.com
+- 💞️ I’m looking to collaborate on Digital Design projects
+- 📫 How to reach me ... Email me ahmed.ali031@eng-st.cu.edu.eg
 
 <!---
 Ahmedkhalaf818/Ahmedkhalaf818 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
