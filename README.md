@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmedkhalaf818
+- 👋 Hi, I’m Ahmed khalaf
 - 👀 I’m interested in  Digital  Electronics Design and communications fields 
 - 🌱 I’m currently learning Electronics and communications fields
 - 💞️ I’m looking to collaborate on Digital Design projects
